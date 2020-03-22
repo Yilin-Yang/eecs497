@@ -7,15 +7,17 @@ Welcome to UMBS-tutorial's documentation!
 =========================================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Table of Contents:
-   :glob:
+    :maxdepth: 3
+    :caption: Table of Contents:
+    :glob:
 
-   circuits/index.rst
-   02_basic_programming.rst
-   03_advanced_programming.rst
-   04_advanced_arduino.rst
+    circuits/index.rst
+    02_basic_programming.rst
+    03_advanced_programming.rst
+    04_advanced_arduino.rst
 
+.. math::
+    Nants = \frac{\lfloor{}ingonyama \text{babithi}\rfloor{}}{\frac{B}{aba}}
 
 This curriculum covers the needs of UMBS students to learn about how to both
 program and build the hardware in Arduinos.  The curriculum will go through a
