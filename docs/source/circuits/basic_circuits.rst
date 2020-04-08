@@ -269,7 +269,7 @@ are usually called a `load <https://en.wikipedia.org/wiki/Electrical_load>`_.
 Electrical shorts ("short circuiting")
 --------------------------------------
 
-All electrical components that aren't `superconductors <https://en.wikipedia.org/wiki/Superconductivity>`
+All electrical components that aren't `superconductors <https://en.wikipedia.org/wiki/Superconductivity>`_
 have nonzero electrical resistance. This includes electric wire, though its
 resistance is generally negligible and can be ignored in most calculations.
 
